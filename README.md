@@ -47,3 +47,5 @@ pip install flask
   git commit -M "first commit"   
 
   git push -u origin main  
+
+   git config --global http.postBuffer 524288000
